@@ -12,13 +12,13 @@
 
     $client_id = '975722038463-u8skkkk9bvbktbm8rve8l1tc1flricpu.apps.googleusercontent.com';
     $client_secret = '6FTKkekwdl56GuyuGd8BzYod';
-    $redirect_uri = 'http://localhost:8888/MAMP/jokesdb/googleLogin.php';
+    $redirect_uri = 'https://jokes-app-itt-305.herokuapp.com/jokesdb/googleLogin.php';
 
 
-    $db_username = 'root';
-    $db_password = 'root';
-    $host_name = 'localhost';
-    $db_name = 'test';
+    $db_username = 'e48oxaowx6xev76t';
+    $db_password = 'amgpi1p16ldin1t7';
+    $host_name = 'hcm4e9frmbwfez47.cbetxkdyhwsb.us-east-1.rds.amazonaws.com';
+    $db_name = 'p02svjwrxx0i9j6d';
 
 
 
